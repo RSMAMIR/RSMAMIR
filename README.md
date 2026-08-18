@@ -1,7 +1,6 @@
 <h1 align="center">Hi 👋, I'm ꁲꂵꀤꉸ</h1>
 <h3 align="center">A passionate frontend developer from IRAN</h3>
 <img align="right" alt="AmIR" width="400" 
-  src="https://cdn.myportfolio.com/2fcfcb103788251450a8304378dffded/65198b6e-e407-4c8f-8500-6768cb35a76c_car_1x1.gif?h=cf2ee241356101c627e3efd748d598c0">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rsmamir&label=Profile%20views&color=0e75b6&style=flat" alt="rsmamir" /> </p>
 
 - 👨‍💻 All of my projects are available at [https://github.com/RSMAMIR](https://github.com/RSMAMIR)
